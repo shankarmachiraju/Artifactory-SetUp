@@ -36,4 +36,5 @@ Provide credentials
 username: admin
 password: passwrod 
 Not able to start Artifactory services?
-Make sure You meet the Artifactory system requirements
+
+Make sure You meet the Artifactory system requirements. Check this out - https://www.jfrog.com/confluence/display/JFROG/System+Requirements
